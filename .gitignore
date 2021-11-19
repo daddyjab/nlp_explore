@@ -130,6 +130,6 @@ dmypy.json
 
 # Other items to ignore
 dev_*
-aclImdb/
 data/
 logs/
+hpt_dir/
